@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IEatable {
+public interface IEatable {
+    void eat();
 }

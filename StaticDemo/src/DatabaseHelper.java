@@ -1,4 +1,4 @@
-public class DatabaseGelper {
+public class DatabaseHelper {
 
     public static class Crud{  //create read update delete
         public static void delete(){

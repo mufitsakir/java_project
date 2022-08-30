@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class GameCalculator {
+public abstract class GameCalculator {
+
+    public abstract void hesapla();
+
+    public final void gameOver(){
+        System.out.println("oyun bitti:");
+    }
 }

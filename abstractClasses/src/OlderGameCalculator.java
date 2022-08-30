@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class OlderGameCalculator {
+public class OlderGameCalculator extends GameCalculator{
+    public void hesapla(){
+
+    }
 }

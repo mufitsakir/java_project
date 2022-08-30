@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class OutSourceWorker {
+public class OutSourceWorker implements IWorkable{
+
+    @Override
+    public void work() {
+
+    }
 }

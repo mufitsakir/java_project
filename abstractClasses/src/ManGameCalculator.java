@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class ManGameCalculator {
+public class ManGameCalculator extends GameCalculator{
+    public void hesapla(){
+        System.out.println("Puaniniz : 90");
+    }
+
 }

@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class KidsGameCalculator {
+public class KidsGameCalculator extends GameCalculator{
+
+    @Override
+    public void hesapla(){
+        System.out.println("Puaniniz : 100");
+    }
 }

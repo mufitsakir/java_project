@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class EmailLogger {
+public class EmailLogger extends BaseLogger{
+    public void log(String message){
+        System.out.println("logged to Email " + message);
+    }
 }

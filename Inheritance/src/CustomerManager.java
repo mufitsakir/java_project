@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class CustomerManager {
+import java.io.Console;
+
+public class CustomerManager extends PersonManager {
+
+
+
+
 }

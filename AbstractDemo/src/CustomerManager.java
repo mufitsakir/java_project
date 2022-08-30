@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class CustomerManager {
+public class CustomerManager {
+
+    BaseDatabaseManager databaseManager;
+
+    public void getCustomers(){
+        databaseManager.getData();
+
+    }
 }

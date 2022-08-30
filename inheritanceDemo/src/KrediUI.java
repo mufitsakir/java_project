@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class KrediUI {
+public class KrediUI {
+    public void krediHesapla(OgretmenKrediManager ogretmenKrediManager){
+        ogretmenKrediManager.Hesapla();
+
+    }
 }
